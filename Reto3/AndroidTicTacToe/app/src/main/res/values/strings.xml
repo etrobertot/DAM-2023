@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Triki</string>
+    <string name="new_game">Juego Nuevo</string>
+    <string name="first_turn_human">Tu eres el primero en jugar</string>
+    <string name="first_turn_computer">La maquina es la primera en jugar</string>
+    <string name="turn_human">Es tu turno</string>
+    <string name="turn_computer">Es el turno de la maquina</string>
+    <string name="result_tie">Es un empate</string>
+    <string name="result_human_wins">¡¡Felicitaciones tu ganas!!</string>
+    <string name="result_computer_wins">¡¡Lo siento la maquina gana!!</string>
+</resources>
