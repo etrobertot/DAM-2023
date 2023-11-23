@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="RadioButtonStyle" parent="Theme.AppCompat.Light">
+        <item name="colorAccent">@color/indigo_500</item>
+    </style>
+</resources>
